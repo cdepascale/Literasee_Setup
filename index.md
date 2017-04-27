@@ -39,6 +39,8 @@ Headers (except for H1) in Literasee support deep-linking via [AnchorJS](http://
 ```
 ## example
 
+### example 2
+
 # H1 Heading
 
 ## H2 Heading
